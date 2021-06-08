@@ -64,7 +64,8 @@
     "react/jsx-uses-vars": 2,
     "react/jsx-wrap-multilines": 2,
     "semi": [2, "always"],
-    "sort-keys": [2, "asc", { "caseSensitive": false, "natural": false }]
+    "sort-keys": [2, "asc", { "caseSensitive": false, "natural": false }],
+    "react/no-children-prop": "off"
   },
   "settings": {
     "import/resolver": {
