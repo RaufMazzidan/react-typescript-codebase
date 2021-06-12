@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@configs/*": ["./configs/*"],
+      "@containers/*": ["./containers/*"],
+      "@pages": ["./pages"],
+      "@pages/*": ["./pages/*"],
+      "@repositories/*": ["./repositories/*"],
+      "@types/*": ["./types/*"]
+    }
+  }
+}

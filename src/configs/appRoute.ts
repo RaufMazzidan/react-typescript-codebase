@@ -1,6 +1,6 @@
+import pages from '@pages';
 import route from './route';
 import { appRouteItemTypes } from './appRoute.type';
-import pages from '../pages';
 
 const appRoute: Array<appRouteItemTypes> = [
   {

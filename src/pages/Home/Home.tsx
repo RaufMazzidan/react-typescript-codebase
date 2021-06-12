@@ -1,4 +1,4 @@
-import HomeContainer from '../../containers/Home';
+import HomeContainer from '@containers/Home';
 
 const HomePage = () => (
   <HomeContainer />
